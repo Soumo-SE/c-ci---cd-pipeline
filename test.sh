@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc MAIN.c -o app
+gcc main.c -o app
 ./app
